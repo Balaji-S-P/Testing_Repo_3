@@ -1,2 +1,4 @@
 file2 added
 hello world from file 2
+hello world 2
+hello world 3
