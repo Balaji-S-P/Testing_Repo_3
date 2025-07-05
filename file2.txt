@@ -1,1 +1,2 @@
 file2 added
+hello world from file 2
