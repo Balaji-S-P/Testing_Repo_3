@@ -2,3 +2,4 @@ hello from file3.txt
 hello world 2 from file3.txt
 hello world 4
 hello world 5
+hello world 6
